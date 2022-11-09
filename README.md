@@ -14,3 +14,5 @@ Write the next functions with expressive form and then rewrite it with arrow fun
 10. Investigate about memory in javascript
 11. Investigate all about devtools, browser and write about which is the best and why
 12. Investigate 50 html tags and semantic html
+
+https://docs.google.com/document/d/1eIgK1VRJozJL_2cdQPwpzLcH3Xl7uWCfH_HL_MRXc8k/edit?usp=sharing
