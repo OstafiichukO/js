@@ -139,7 +139,7 @@ const isPalidrome2 = (string) => {
   }
   return console.log("6.2) " + string + ' is a palindrome');
 }
-isPalidrome2('Abram')
+isPalidrome2('Abtreba')
 
 // 7. Write a function to find the number of zeros in 2D Matrix [[0,1,1],[0,1,0],[1,0,0]]
 function zeros(matrix) {
